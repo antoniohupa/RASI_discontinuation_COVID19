@@ -15,7 +15,8 @@ Do-file: "BMC_Medicine_analysis.do"
 
 #### *R-Studio template to build forestplots:
 
-File: "Figure_4_Foresplot.R"
+R file: "Figure_4_Foresplot.R"
+Dataset: "figura_ACEIcon_ACEIdisc_sin_switch.csv"
 
 
 
