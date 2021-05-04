@@ -2,4 +2,6 @@
 ##### Prof Francisco J. de Abajo, MD, PhD, MPH, Antonio Rodríguez-Miguel, PhD, Sara Rodríguez-Martín, PhD, Victoria Lerma, RN, Alberto García-Lledó, MD, PhD, on behalf of MED-ACE2-COVID19 Study Group
 
 
-##### Main analysis in STATA, including dataset and do-file
+##### Main analysis in STATA
+##### Dataset: "Main_analysis_BMC_Medicine.csv"
+##### Do-file: ""Main_analysis_BMC_Medicine.do"
