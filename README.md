@@ -2,4 +2,4 @@
 ##### Prof Francisco J. de Abajo, MD, PhD, MPH, Antonio Rodríguez-Miguel, PhD, Sara Rodríguez-Martín, PhD, Victoria Lerma, RN, Alberto García-Lledó, MD, PhD, on behalf of MED-ACE2-COVID19 Study Group
 
 
-#### Main analysis
+#### Main analysis in STATA
