@@ -16,6 +16,6 @@ File: "Figure_4_Foresplot.R"
 
 
 
-##### * Dataset for Sankey Figure 2:
+##### * Excel dataset for Sankey Figure 2:
 
 File: "Figure_2_Sankey.xlsx"
