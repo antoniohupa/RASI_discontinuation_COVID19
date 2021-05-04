@@ -13,7 +13,7 @@ Do-file: "BMC_Medicine_analysis.do"
 
 
 
-#### *R-Studio template to build forestplots:
+#### *R-Studio forestplot template:
 
 R file: "Figure_4_Foresplot.R"
 
@@ -21,6 +21,6 @@ Dataset: "figura_ACEIcon_ACEIdisc_sin_switch.csv"
 
 
 
-#### *Excel dataset for Sankey Figure 2:
+#### *Excel data to build a Sankey graph as Figure 2:
 
 File: "Figure_2_Sankey.xlsx"
