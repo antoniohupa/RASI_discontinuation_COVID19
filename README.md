@@ -4,4 +4,4 @@
 
 ##### Main analysis in STATA
 ##### Dataset: "Main_analysis_BMC_Medicine.csv"
-##### Do-file: ""Main_analysis_BMC_Medicine.do"
+##### Do-file: "BMC_Medicine_analysis.do"
